@@ -119,5 +119,38 @@ main{
     text-align: center;
     margin: 5px;
 }
+#what-i-do{
+    padding: 30px 150px;
+}
+.skill-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+}
+.skill{
+    width: 280px;
+    height: 230;
+    margin: 10px;
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px; 
+    background-color: #FFF8F3;
+}
+.icon{
+    width: 50px;
+    border-radius: 4px;
+}
+.skill-tittle{
+    padding: 5px;
+
+
+}
+.skill-discription{
+    padding: 5px;
+}
+
+
 
 
