@@ -99,11 +99,25 @@ nav a {
 .banner-discription {
     margin-top: 0px;
 }
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
 .about{
     padding: 130px;
     border-radius: 10px;
     background: #FFF8F3;
     margin: 130px 0px;
+}
+.about-container{
+    display: flex;
+    margin-right: 10px;
+    justify-content: center;
+
+}
+.about-info{
+    text-align: center;
+    margin: 5px;
 }
 
 
